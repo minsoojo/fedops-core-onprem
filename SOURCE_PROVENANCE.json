@@ -1,0 +1,351 @@
+{
+  "sourceExport": "FedOps",
+  "basis": "Sanitized handoff plus 67-file configuration manifest; new history, not an upstream fork or full export.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sourceSha256": "8c5c58dd17a205de80d0152cd1425410847ec9a2a42f6a51288bd95cf97e87a3",
+      "repositorySha256": "3bdeef9f5d8f81d259ef16464303aabdcdfe820c2f617c9ba035b7a0f615629b"
+    },
+    {
+      "path": "LICENSE",
+      "sourceSha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "repositorySha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "README.md",
+      "sourceSha256": "d43a8caa1ef3ade0ed3bc04a7f5077d09a7d54ab3e1421c7e5e269f50ef70a89",
+      "repositorySha256": "d43a8caa1ef3ade0ed3bc04a7f5077d09a7d54ab3e1421c7e5e269f50ef70a89"
+    },
+    {
+      "path": "src/python/README.md",
+      "sourceSha256": "11e250f0ef0fefe73ad7233efd107101f1c7463b50be801bf335f71bf1f76476",
+      "repositorySha256": "11e250f0ef0fefe73ad7233efd107101f1c7463b50be801bf335f71bf1f76476"
+    },
+    {
+      "path": "src/python/__init__.py",
+      "sourceSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "repositorySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/python/docs/README.md",
+      "sourceSha256": "4588d4d9d89be86a1951220ea3aecf3469ffd09b499e4c1207271a1cc55c2013",
+      "repositorySha256": "4588d4d9d89be86a1951220ea3aecf3469ffd09b499e4c1207271a1cc55c2013"
+    },
+    {
+      "path": "src/python/docs/images/fedops_logo_1.png",
+      "sourceSha256": "ddb53841aaf6c93164c77b6ab0cb6d52b270f174190f91d0c89a1ae3d23cfec1",
+      "repositorySha256": "ddb53841aaf6c93164c77b6ab0cb6d52b270f174190f91d0c89a1ae3d23cfec1"
+    },
+    {
+      "path": "src/python/docs/images/industry_h.png",
+      "sourceSha256": "1f052b40a83c45fb6b1607681a3ad35d808741c1e891e114cd6197f20010a4e8",
+      "repositorySha256": "1f052b40a83c45fb6b1607681a3ad35d808741c1e891e114cd6197f20010a4e8"
+    },
+    {
+      "path": "src/python/docs/images/mobile_detail.png",
+      "sourceSha256": "b58a54e9e46fb0fca44ce3f903e55752d5a59bcf36349147a4e91627bf16f3af",
+      "repositorySha256": "b58a54e9e46fb0fca44ce3f903e55752d5a59bcf36349147a4e91627bf16f3af"
+    },
+    {
+      "path": "src/python/docs/images/mobile_scenario.png",
+      "sourceSha256": "7c3c22fdd77e658f665e32600d3f62aeb1e84c1cb9f5b579bd261d327dac721d",
+      "repositorySha256": "7c3c22fdd77e658f665e32600d3f62aeb1e84c1cb9f5b579bd261d327dac721d"
+    },
+    {
+      "path": "src/python/docs/images/silo_detail.png",
+      "sourceSha256": "85c56593553c654f3145ac21cd5c42883bfb621acfb6eeb387b2bfb0b9684e61",
+      "repositorySha256": "85c56593553c654f3145ac21cd5c42883bfb621acfb6eeb387b2bfb0b9684e61"
+    },
+    {
+      "path": "src/python/docs/images/silo_scenario.png",
+      "sourceSha256": "807cb0437503469b9d7ce57abd5f5adf82726e0d2f5ad55ca95a3121816cc0bb",
+      "repositorySha256": "807cb0437503469b9d7ce57abd5f5adf82726e0d2f5ad55ca95a3121816cc0bb"
+    },
+    {
+      "path": "src/python/docs/images/simulation_1.png",
+      "sourceSha256": "0d39ebd5886d81bebc38c6d17db2c3e30e4853592d4ea1615fb92b18dbfef07f",
+      "repositorySha256": "0d39ebd5886d81bebc38c6d17db2c3e30e4853592d4ea1615fb92b18dbfef07f"
+    },
+    {
+      "path": "src/python/fedops/__init__.py",
+      "sourceSha256": "2f61d31407ee44d7561a0fa0595e003368015672b9469f554c093ff76acb464a",
+      "repositorySha256": "2f61d31407ee44d7561a0fa0595e003368015672b9469f554c093ff76acb464a"
+    },
+    {
+      "path": "src/python/fedops/__main__.py",
+      "sourceSha256": "eb3e093335f45e4ae4f1836c06e27a16e8e9f21815a8198b2a1716469f44fffa",
+      "repositorySha256": "eb3e093335f45e4ae4f1836c06e27a16e8e9f21815a8198b2a1716469f44fffa"
+    },
+    {
+      "path": "src/python/fedops/agent_studio_host.py",
+      "sourceSha256": "53360293858599121c8b819731e97584ec2091083d68b0cc6d1b541b7fbea47f",
+      "repositorySha256": "53360293858599121c8b819731e97584ec2091083d68b0cc6d1b541b7fbea47f"
+    },
+    {
+      "path": "src/python/fedops/agent_studio_runner.py",
+      "sourceSha256": "0aeb444907035564c50ed92d3b9bf7af502116ae355a0eaf0630a1b7b6858ed2",
+      "repositorySha256": "0aeb444907035564c50ed92d3b9bf7af502116ae355a0eaf0630a1b7b6858ed2"
+    },
+    {
+      "path": "src/python/fedops/assets/fedops-agent-studio-ascii.txt",
+      "sourceSha256": "2d5f03f0c6df714ba18bf98fd377a1282278345fd27d524af0670263f86cf975",
+      "repositorySha256": "2d5f03f0c6df714ba18bf98fd377a1282278345fd27d524af0670263f86cf975"
+    },
+    {
+      "path": "src/python/fedops/assets/fedops_logo_ascii.txt",
+      "sourceSha256": "86bb0dbe71aee7f4343328164f36fa1976e77711aeeb6d9afccb2365f4138f9c",
+      "repositorySha256": "86bb0dbe71aee7f4343328164f36fa1976e77711aeeb6d9afccb2365f4138f9c"
+    },
+    {
+      "path": "src/python/fedops/cli.py",
+      "sourceSha256": "eff48db26ce01ffd50bb6dc43f73d2a24ab77689c159d6acf6f524b889dd8076",
+      "repositorySha256": "eff48db26ce01ffd50bb6dc43f73d2a24ab77689c159d6acf6f524b889dd8076"
+    },
+    {
+      "path": "src/python/fedops/client/__init__.py",
+      "sourceSha256": "02d3ba9eb2aa844b936e8bd197f5fb3daf1485300b6a11a105a0ed0847fc90a2",
+      "repositorySha256": "02d3ba9eb2aa844b936e8bd197f5fb3daf1485300b6a11a105a0ed0847fc90a2"
+    },
+    {
+      "path": "src/python/fedops/client/app.py",
+      "sourceSha256": "9be25a827d922d8e2747c1dc9755b6372fad1d009667027f433790a7b8c230c9",
+      "repositorySha256": "9be25a827d922d8e2747c1dc9755b6372fad1d009667027f433790a7b8c230c9"
+    },
+    {
+      "path": "src/python/fedops/client/client_api.py",
+      "sourceSha256": "21e1cbddc237272a50175456869c58841a0951dd6cf28044fdae6e5e5cc7c5a9",
+      "repositorySha256": "21e1cbddc237272a50175456869c58841a0951dd6cf28044fdae6e5e5cc7c5a9"
+    },
+    {
+      "path": "src/python/fedops/client/client_fl.py",
+      "sourceSha256": "73fe4ae2424c294f15a66f672f8ef7f1463f82b478dc9c390c69967ebe1b5aa8",
+      "repositorySha256": "73fe4ae2424c294f15a66f672f8ef7f1463f82b478dc9c390c69967ebe1b5aa8"
+    },
+    {
+      "path": "src/python/fedops/client/client_utils.py",
+      "sourceSha256": "8c2d41ac170eac8255179c135d1bc30fb05bb57fba4afeef6e8714e645cdec17",
+      "repositorySha256": "8c2d41ac170eac8255179c135d1bc30fb05bb57fba4afeef6e8714e645cdec17"
+    },
+    {
+      "path": "src/python/fedops/client/client_wandb.py",
+      "sourceSha256": "eee49b33e2aaad9049afab62e0d4a80e1bfd6819ba22d17bd7d5169d48b50516",
+      "repositorySha256": "eee49b33e2aaad9049afab62e0d4a80e1bfd6819ba22d17bd7d5169d48b50516"
+    },
+    {
+      "path": "src/python/fedops/client/parameter_contract.py",
+      "sourceSha256": "adbb6b4662c5a6163334d31734c3345723244cfa713b36d3dd1bb71c59bdc1fe",
+      "repositorySha256": "adbb6b4662c5a6163334d31734c3345723244cfa713b36d3dd1bb71c59bdc1fe"
+    },
+    {
+      "path": "src/python/fedops/client/runtime_events.py",
+      "sourceSha256": "efe50d997b3e59754ea2bffd88886f8ad694fb98d091a4b7a45bab05aa62ebe0",
+      "repositorySha256": "efe50d997b3e59754ea2bffd88886f8ad694fb98d091a4b7a45bab05aa62ebe0"
+    },
+    {
+      "path": "src/python/fedops/client/test.py",
+      "sourceSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "repositorySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/python/fedops/server/__init__.py",
+      "sourceSha256": "bdf6a31b50d4d315aac9e861cf9543325ac2eb536828d12b838e25e4e17f5ae3",
+      "repositorySha256": "bdf6a31b50d4d315aac9e861cf9543325ac2eb536828d12b838e25e4e17f5ae3"
+    },
+    {
+      "path": "src/python/fedops/server/app.py",
+      "sourceSha256": "d78043d59048ada68af3877d8af47047431f109a5ee1da94d10c7cfa05690143",
+      "repositorySha256": "d78043d59048ada68af3877d8af47047431f109a5ee1da94d10c7cfa05690143"
+    },
+    {
+      "path": "src/python/fedops/server/evaluation.py",
+      "sourceSha256": "8d0740ad587498343588feef9c75f6a565bf90dffa365151e2a199a08c5de513",
+      "repositorySha256": "8d0740ad587498343588feef9c75f6a565bf90dffa365151e2a199a08c5de513"
+    },
+    {
+      "path": "src/python/fedops/server/evaluation_strategy.py",
+      "sourceSha256": "c04b19fac6d798a3f8c8d984e22b303f2ecebd9bfa4b32df58dabaf85d14937d",
+      "repositorySha256": "c04b19fac6d798a3f8c8d984e22b303f2ecebd9bfa4b32df58dabaf85d14937d"
+    },
+    {
+      "path": "src/python/fedops/server/fedmap/__init__.py",
+      "sourceSha256": "a9dc6eadb818df4a5b6c860b655970ec7d5108ca165d5eb867c0c9a2a96849d2",
+      "repositorySha256": "a9dc6eadb818df4a5b6c860b655970ec7d5108ca165d5eb867c0c9a2a96849d2"
+    },
+    {
+      "path": "src/python/fedops/server/fedmap/strategy.py",
+      "sourceSha256": "c21b101cd200a47d7c8da0741a36d660c63eb4ea2aaf32cc3a58a3b869d0c95d",
+      "repositorySha256": "c21b101cd200a47d7c8da0741a36d660c63eb4ea2aaf32cc3a58a3b869d0c95d"
+    },
+    {
+      "path": "src/python/fedops/server/mobile_app.py",
+      "sourceSha256": "08d959ef776a1ae74be7d053eb0925e120cb8190554580855ed224bace2947c1",
+      "repositorySha256": "08d959ef776a1ae74be7d053eb0925e120cb8190554580855ed224bace2947c1"
+    },
+    {
+      "path": "src/python/fedops/server/mobile_strategy.py",
+      "sourceSha256": "1cf7e46e61d2a9888e864152bfbf5425bb8b22b7ea68c77102890a99808c26c8",
+      "repositorySha256": "1cf7e46e61d2a9888e864152bfbf5425bb8b22b7ea68c77102890a99808c26c8"
+    },
+    {
+      "path": "src/python/fedops/server/server_api.py",
+      "sourceSha256": "adb0256b374121df3e0c3ca3441d6cd54c441c223f2407b4a50fd1465172a3cf",
+      "repositorySha256": "adb0256b374121df3e0c3ca3441d6cd54c441c223f2407b4a50fd1465172a3cf"
+    },
+    {
+      "path": "src/python/fedops/server/server_utils.py",
+      "sourceSha256": "7e660b4330b92efa0f7008d750ab3a571f6e82c3aef750da82263f8e3ab8e8b5",
+      "repositorySha256": "7e660b4330b92efa0f7008d750ab3a571f6e82c3aef750da82263f8e3ab8e8b5"
+    },
+    {
+      "path": "src/python/fedops/server/strategy_cluster_optuna.py",
+      "sourceSha256": "5aef82807622eaf1392c93a48be26e1d57bac18459d02ab562a47e5ffa06df1e",
+      "repositorySha256": "5aef82807622eaf1392c93a48be26e1d57bac18459d02ab562a47e5ffa06df1e"
+    },
+    {
+      "path": "src/python/fedops/server/validation.py",
+      "sourceSha256": "ff8bce844c3312287341e5792165f91e18a02645cde2c34d1128e4ebb1069f0d",
+      "repositorySha256": "ff8bce844c3312287341e5792165f91e18a02645cde2c34d1128e4ebb1069f0d"
+    },
+    {
+      "path": "src/python/fedops/simulation/__init__.py",
+      "sourceSha256": "ff56cba7cbe0dae291569281d4162f4096873a3bca4ab68f6881775eb0e07d71",
+      "repositorySha256": "ff56cba7cbe0dae291569281d4162f4096873a3bca4ab68f6881775eb0e07d71"
+    },
+    {
+      "path": "src/python/fedops/simulation/app.py",
+      "sourceSha256": "ad02aac77b8d442a9735e8e27d389898c386e7f60a62cd17c77ed4d96547cda3",
+      "repositorySha256": "ad02aac77b8d442a9735e8e27d389898c386e7f60a62cd17c77ed4d96547cda3"
+    },
+    {
+      "path": "src/python/fedops/simulation/fl_strategy/__init__.py",
+      "sourceSha256": "a6f0e6512a790a79e4e82e6fb0b58a0612ecb3d0c96604e22f78aa404b7d45a9",
+      "repositorySha256": "a6f0e6512a790a79e4e82e6fb0b58a0612ecb3d0c96604e22f78aa404b7d45a9"
+    },
+    {
+      "path": "src/python/fedops/simulation/fl_strategy/aggregation.py",
+      "sourceSha256": "1023b793b544650e5be1d2ba766988a4dd6027be49d377dbe8f6f6b7e4019a02",
+      "repositorySha256": "1023b793b544650e5be1d2ba766988a4dd6027be49d377dbe8f6f6b7e4019a02"
+    },
+    {
+      "path": "src/python/fedops/simulation/fl_strategy/client.py",
+      "sourceSha256": "5eff270945bd77e82a0207d2bb3869e74c388d149aed9edf75028087db2a8d78",
+      "repositorySha256": "5eff270945bd77e82a0207d2bb3869e74c388d149aed9edf75028087db2a8d78"
+    },
+    {
+      "path": "src/python/fedops/simulation/fl_strategy/selection.py",
+      "sourceSha256": "1cdf6c675a67b7e01ae356563f790361dbc781cfc343414a8da4668fa23d62f0",
+      "repositorySha256": "1cdf6c675a67b7e01ae356563f790361dbc781cfc343414a8da4668fa23d62f0"
+    },
+    {
+      "path": "src/python/fedops/simulation/fl_strategy/server.py",
+      "sourceSha256": "d2b98c69740d1426ebb7a44b59efcaea1f9b0fef72267f5e432a427d59c501dd",
+      "repositorySha256": "d2b98c69740d1426ebb7a44b59efcaea1f9b0fef72267f5e432a427d59c501dd"
+    },
+    {
+      "path": "src/python/fedops/utils/__init__.py",
+      "sourceSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "repositorySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/python/fedops/utils/fedco/__init__.py",
+      "sourceSha256": "ecd3d04e12221097a9b324b4d1e9292ec532a92c649746f8c024605c112c51e1",
+      "repositorySha256": "ecd3d04e12221097a9b324b4d1e9292ec532a92c649746f8c024605c112c51e1"
+    },
+    {
+      "path": "src/python/fedops/utils/fedco/best_keeper.py",
+      "sourceSha256": "d438ca08eea979332eeadb4f226397f25325ca332739afc96d69d1282e593906",
+      "repositorySha256": "d438ca08eea979332eeadb4f226397f25325ca332739afc96d69d1282e593906"
+    },
+    {
+      "path": "src/python/fedops/utils/fedco/datasetting.py",
+      "sourceSha256": "4cada9e29b57f759b876c5200432637835e7cc41648741dc58e7f70eca8e10b3",
+      "repositorySha256": "4cada9e29b57f759b876c5200432637835e7cc41648741dc58e7f70eca8e10b3"
+    },
+    {
+      "path": "src/python/fedops/utils/fedxai/__init__.py",
+      "sourceSha256": "03d2e85d9301dbf27df870f7a53737228d7f2249d8ae420ac2645c3b148e4e45",
+      "repositorySha256": "03d2e85d9301dbf27df870f7a53737228d7f2249d8ae420ac2645c3b148e4e45"
+    },
+    {
+      "path": "src/python/fedops/utils/fedxai/gradcam.py",
+      "sourceSha256": "b2a9490047e1b2749b333a93d5945b1320d4808e50446544da1eac150eefdbf9",
+      "repositorySha256": "b2a9490047e1b2749b333a93d5945b1320d4808e50446544da1eac150eefdbf9"
+    },
+    {
+      "path": "src/python/fedops/utils/fedxai/loadvis.py",
+      "sourceSha256": "10cd1644b05125051787a726911c4b4ddcab779e4623d8c4d6db2d9e6260db35",
+      "repositorySha256": "10cd1644b05125051787a726911c4b4ddcab779e4623d8c4d6db2d9e6260db35"
+    },
+    {
+      "path": "src/python/fedops/utils/fedxai/models.py",
+      "sourceSha256": "c7b22d71877dffbdc76b5daefc87ce1b6566677f2fc4a5cd74736a8431ace6d1",
+      "repositorySha256": "c7b22d71877dffbdc76b5daefc87ce1b6566677f2fc4a5cd74736a8431ace6d1"
+    },
+    {
+      "path": "src/python/fedops/utils/fedxai/traintest.py",
+      "sourceSha256": "dab4b408df617b27c2dc4e1d7b766220d47157b16c4f45144c82f49013b5eb15",
+      "repositorySha256": "dab4b408df617b27c2dc4e1d7b766220d47157b16c4f45144c82f49013b5eb15"
+    },
+    {
+      "path": "src/python/fedops/utils/version.py",
+      "sourceSha256": "167a421eef308d7e7de8c97b09c1d75b4e4321a4dc7ca57c1ddb99709649e6d0",
+      "repositorySha256": "167a421eef308d7e7de8c97b09c1d75b4e4321a4dc7ca57c1ddb99709649e6d0"
+    },
+    {
+      "path": "src/python/setup.cfg",
+      "sourceSha256": "294d88fadd0577ba82205225cc8ee39f2e0341cd2c8b00076109606837627452",
+      "repositorySha256": "294d88fadd0577ba82205225cc8ee39f2e0341cd2c8b00076109606837627452"
+    },
+    {
+      "path": "src/python/setup.py",
+      "sourceSha256": "5458e90bacf78ad93d1cdce380a91e0f09bbb19eddc0322085ca236a33c7d587",
+      "repositorySha256": "c860cc4e21727711313da23a0ba286aa7540f8872b21285f133040c9055c9c60"
+    },
+    {
+      "path": "src/python/tests/test_agent_studio_cli.py",
+      "sourceSha256": "a0952156c1a788e05fc159da222f3590fc81b547bef804a8ed477cb149e905d9",
+      "repositorySha256": "a0952156c1a788e05fc159da222f3590fc81b547bef804a8ed477cb149e905d9"
+    },
+    {
+      "path": "src/python/tests/test_client_runtime.py",
+      "sourceSha256": "fcfb4b2b9cc9ddd4f51517c6d995a57afdc130d28e6098168f531c4103c76319",
+      "repositorySha256": "fcfb4b2b9cc9ddd4f51517c6d995a57afdc130d28e6098168f531c4103c76319"
+    },
+    {
+      "path": "src/python/tests/test_parameter_contract.py",
+      "sourceSha256": "38ef1801b64e2feab36e2e656e6e6a6a40131cdc5318f4eca3fca1544471b9ad",
+      "repositorySha256": "38ef1801b64e2feab36e2e656e6e6a6a40131cdc5318f4eca3fca1544471b9ad"
+    },
+    {
+      "path": "src/python/tests/test_server_evaluation.py",
+      "sourceSha256": "eb26db5b3b7c64f0eb867ce292552fbc4e587cbad5c3615eea579fc3e7542d1d",
+      "repositorySha256": "eb26db5b3b7c64f0eb867ce292552fbc4e587cbad5c3615eea579fc3e7542d1d"
+    },
+    {
+      "path": ".env.example",
+      "sourceSha256": "6b8a9984eafb6ae376e168e16ace1fbc7d7a85f1a68aaf649e9665d0aaa59480",
+      "repositorySha256": "6b8a9984eafb6ae376e168e16ace1fbc7d7a85f1a68aaf649e9665d0aaa59480"
+    },
+    {
+      "path": "src/python/fedops/server/connection_config.py",
+      "sourceSha256": "ca98b7d9252e9b367f36db8be394e0fe3db9e884f5c286a2400489943f03cf5d",
+      "repositorySha256": "ca98b7d9252e9b367f36db8be394e0fe3db9e884f5c286a2400489943f03cf5d"
+    },
+    {
+      "path": "src/python/fedops/server/object_storage_config.py",
+      "sourceSha256": "1a2be59d75e99a354a7549d281dcd912138863a994495e333ed7213b13997cfe",
+      "repositorySha256": "1a2be59d75e99a354a7549d281dcd912138863a994495e333ed7213b13997cfe"
+    }
+  ],
+  "omitted": [
+    {
+      "path": ".github/workflows/agent-studio-cli.yml",
+      "reason": "Upstream automatic publication workflow; not enabled in the new repository"
+    },
+    {
+      "path": ".github/workflows/pypi-release.yml",
+      "reason": "Upstream automatic publication workflow; not enabled in the new repository"
+    }
+  ]
+}
